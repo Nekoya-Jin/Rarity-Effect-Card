@@ -46,6 +46,9 @@
 *.sln.DotSettings.user
 *.csproj.DotSettings.user
 
+*.sln
+*.csproj
+
 # Mac system files
 .DS_Store
 .DS_Store?
